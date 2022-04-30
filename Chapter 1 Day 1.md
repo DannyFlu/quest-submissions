@@ -1,6 +1,6 @@
 # Notes
-* *A transaction is a glorified function call which changes data on the blockchain* *
-* *A script is used to view data on the blockchain* *
+* *A transaction is a glorified function call which changes data on the blockchain* 
+* *A script is used to view data on the blockchain* 
 
 ## Quests
 
