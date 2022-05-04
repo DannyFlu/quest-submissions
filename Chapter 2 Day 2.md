@@ -21,7 +21,7 @@ pub contract HelloWorld {
         self.myNumber = newNumber
     }
     pub fun changeGreeting(newGreeting: String) {
-        self.greeting = newGreeting
+        self.greeting = "newGreeting"
     }
     init() {
         self.greeting = "Hello, World!"
